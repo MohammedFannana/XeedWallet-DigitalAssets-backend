@@ -1,2 +1,2 @@
 # XeedWallet-DigitalAssets-backend
-Xeed Wallet for Digital Assets: Redefining financial security in the Web3 era. Designed to simplify interaction with DeFi protocols through a smart, seamless UX without compromising full control over your private keys. We merge advanced cryptography for absolute sovereignty with a hassle-free experience to safely grow your wealth.
+Xeed Wallet  is an integrated digital platform for financial services and an online payment gateway, aimed at facilitating local and international money transfers across multiple currencies, in addition to supporting payment solutions for merchants and startups.
