@@ -1,10 +1,10 @@
 # XeedWallet-DigitalAssets-backend
 XeedWallet is an all-in-one, integrated digital financial services ecosystem and advanced online payment gateway. It is strategically engineered to streamline local and cross-border fund transfers across a diverse range of fiat and multi-currency options. Designed with scalability in mind, the platform bridges the gap between traditional banking and modern digital commerce by providing comprehensive, secure, and flexible payment infrastructure for individuals, merchants, and emerging startups alike.
 
-# Skills:
+## Skills:
 PHP - Laravel – MySQL – JavaScript – API – blockchain – payment gateway   
 
-# Deliverables
+## Deliverables
 - Financial API: Real-time transactions, multi-currency wallets, and instant exchange.
 -  Merchant Gateway: Developer-friendly APIs/SDKs for e-commerce integration.
 -  Admin Dashboard: Live monitoring, user verification, and fee management.
